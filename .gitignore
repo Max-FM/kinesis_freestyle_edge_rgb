@@ -1,2 +1,6 @@
-/firmware
-/System Volume Information
+# Ignore all directories except key folders
+/*
+
+!/layouts
+!/lighting
+!/settings
