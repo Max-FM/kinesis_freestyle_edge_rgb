@@ -1,4 +1,13 @@
 [hk0]>[caps]
+{hk1}>{x1}{-lwin}{t}{+lwin}
+{hk2}>{x1}{-lwin}{b}{+lwin}
+{hk3}>{x1}{-lwin}{f}{+lwin}
+{hk4}>{x1}{-lctrl}{z}{+lctrl}
+{hk5}>{x1}{-lctrl}{x}{+lctrl}
+{hk6}>{x1}{-lctrl}{a}{+lctrl}
+{hk7}>{x1}{-lctrl}{c}{+lctrl}
+{hk8}>{x1}{-lctrl}{v}{+lctrl}
+[hk9]>[fntog]
 [e]>[f]
 [r]>[p]
 [t]>[b]
@@ -22,7 +31,6 @@
 [b]>[z]
 [n]>[k]
 [m]>[h]
-[hk9]>[fntog]
 [lspc]>[bspc]
 fn [F7]>[numlk]
 fn [F8]>[null]
