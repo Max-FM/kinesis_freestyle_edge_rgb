@@ -1,2 +1,2 @@
 [wave]>[spd5][dirright]
-fn [wave]>[spd9][dirdown]
+fn [pulse]>[spd7]
