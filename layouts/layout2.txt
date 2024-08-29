@@ -21,7 +21,7 @@
 [l]>[i]
 [colon]>[o]
 {hk7}>{x1}{-lctrl}{c}{+lctrl}
-{hk8}>{-lctrl}{v}{+lctrl}
+{hk8}>{x1}{-lctrl}{v}{+lctrl}
 [z]>[x]
 [x]>[c]
 [c]>[d]
