@@ -1,4 +1,6 @@
 [hk0]>[caps]
+{hk1}>{x1}{-lalt}{tab}{+lalt}
+{hk2}>{x1}{-lshft}{-lalt}{tab}{+lshft}{+lalt}
 {hk3}>{-lctrl}{y}{+lctrl}
 {hk4}>{-lctrl}{z}{+lctrl}
 [e]>[f]
